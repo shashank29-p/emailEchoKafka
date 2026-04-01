@@ -1,0 +1,11 @@
+Hello User,
+
+Thank you for the mail. We are currently looking into your request. Please find the below ticket number
+for your reference.
+
+{{Ticket-id}}
+
+Best regards,
+Team Email-Echo
++00-000000000
+TestEmailEchoSupport.in
