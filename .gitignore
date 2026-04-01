@@ -2,7 +2,7 @@
 *.class
 .gradle
 .idea
-build
+
 # Log file
 *.log
 
@@ -13,7 +13,6 @@ build
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
